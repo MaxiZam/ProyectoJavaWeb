@@ -9,25 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="681d35d0-75b4-4338-abe9-a4701e2d92ad" name="Changes" comment="no se">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ProyectoJavaWeb2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ProyectoJavaWeb2.0.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/Formato.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/FormularioInsertarLibro.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/InsertarLibro.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/JS/Validacion.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/MostrarLibro.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/mysql-connector-java-8.0.29.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/arquitecturajava.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java/DataBaseHelper.java" afterDir="false" />
+    <list default="true" id="681d35d0-75b4-4338-abe9-a4701e2d92ad" name="Changes" comment="de una">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/InsertarLibro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/InsertarLibro.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/MostrarLibro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/MostrarLibro.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/DataBaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/helper/DataBaseHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,40 +55,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Estudiantes/IdeaProjects/ProyectoJavaWeb2.0",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Estudiantes/IdeaProjects/ProyectoJavaWeb2.0&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0" />
+      <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0\WebContent\WEB-INF" />
+      <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0\WebContent" />
       <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0\out\production\ProyectoJavaWeb2.0" />
       <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0\out\production" />
-      <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0\WebContent\lib" />
-      <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0\WebContent\WEB-INF\lib" />
-      <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0\WebContent" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat7">
+    <configuration name="arquitecturajava.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/WebContent/arquitecturajava.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
     <configuration name="formato.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/ProyectoJavaWeb2.0/WebContent/formato.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -194,11 +185,13 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Database Script.arquitecturajava.sql" />
       <item itemvalue="JavaScript Debug.formato.html" />
       <item itemvalue="Tomcat Server.Tomcat7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Database Script.arquitecturajava.sql" />
         <item itemvalue="JavaScript Debug.formato.html" />
       </list>
     </recent_temporary>
@@ -224,8 +217,18 @@
       <workItem from="1660314358610" duration="26000" />
       <workItem from="1660314419116" duration="129000" />
       <workItem from="1660314591471" duration="1644000" />
-      <workItem from="1660316245788" duration="204000" />
+      <workItem from="1660316245788" duration="382000" />
+      <workItem from="1660316684838" duration="894000" />
+      <workItem from="1660317731162" duration="940000" />
     </task>
+    <task id="LOCAL-00001" summary="de una">
+      <created>1660316488230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660316488230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,6 +247,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="no se" />
-    <option name="LAST_COMMIT_MESSAGE" value="no se" />
+    <MESSAGE value="de una" />
+    <option name="LAST_COMMIT_MESSAGE" value="de una" />
   </component>
 </project>
