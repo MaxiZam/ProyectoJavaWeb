@@ -1,6 +1,7 @@
 
 package arquitecturaJava;
 
+import java.sql.SQLException;
 import java.util.List;
 
 public class Libro {
@@ -37,7 +38,7 @@ public class Libro {
         this.categoria = categoria;
     }
 
-    public void insertar() {
+    public void insertar() throws ClassNotFoundException, SQLException {
         String consultaSQL = "insert into Libros (isbn,titulo,categoria) values ";
         consultaSQL += "('" + this.isbn + "','" + this.titulo + "','"
 

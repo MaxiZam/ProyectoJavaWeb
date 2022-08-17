@@ -10,22 +10,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="681d35d0-75b4-4338-abe9-a4701e2d92ad" name="Changes" comment="de una">
-      <change afterPath="$PROJECT_DIR$/src/arquitecturaJava/DataBaseHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arquitecturaJava/Libro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/InsertarLibro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/InsertarLibro.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProyectoJavaWeb2.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoJavaWeb2.0.war" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/MostrarLibro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/MostrarLibro.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helper/DataBaseHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquitecturaJava/DataBaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquitecturaJava/DataBaseHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arquitecturaJava/Libro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arquitecturaJava/Libro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="DatabaseLocalColorSettings">
-    <colors>
-      <entry key="c801cfe3-a767-4cef-88fd-18b7f42dc2fc" value="Blue" />
-    </colors>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,31 +53,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Estudiantes/IdeaProjects/ProyectoJavaWeb2.0",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Estudiantes/IdeaProjects/ProyectoJavaWeb2.0&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Estudiantes\IdeaProjects\ProyectoJavaWeb2.0\src\arquitecturaJava" />
@@ -101,6 +97,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Tomcat7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.32" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="ProyectoJavaWeb2.0">
@@ -111,6 +108,8 @@
       </deployment>
       <server-settings>
         <option name="BASE_DIRECTORY_NAME" value="c022a2d8-6e98-4ee0-8770-8acd6877393c" />
+        <option name="HTTP_PORT" value="3306" />
+        <option name="JNDI_PORT" value="1098" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -194,8 +193,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Database Script.arquitecturajava.sql" />
         <item itemvalue="JavaScript Debug.formato.html" />
+        <item itemvalue="Database Script.arquitecturajava.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +227,12 @@
       <workItem from="1660743737325" duration="5000" />
       <workItem from="1660743902797" duration="10000" />
       <workItem from="1660743938239" duration="24000" />
-      <workItem from="1660743986058" duration="315000" />
+      <workItem from="1660743986058" duration="1265000" />
+      <workItem from="1660745286879" duration="801000" />
+      <workItem from="1660746571351" duration="5000" />
+      <workItem from="1660746595829" duration="28000" />
+      <workItem from="1660746638841" duration="2610000" />
+      <workItem from="1660749282326" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="de una">
       <created>1660316488230</created>
@@ -244,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660318680994</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="de una">
+      <created>1660744394566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660744394566</updated>
+    </task>
+    <task id="LOCAL-00004" summary="de una">
+      <created>1660744408243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660744408243</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -265,5 +283,9 @@
     <MESSAGE value="no se" />
     <MESSAGE value="de una" />
     <option name="LAST_COMMIT_MESSAGE" value="de una" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
